@@ -56,6 +56,7 @@ The project is still young so documentation is a work in progress.
 Please bear with us. You're welcome to share issues and pull requests with us
 through github!
 
-Contact us at [weboot-users@cern.ch](mailto:weboot-users@cern.ch).
+Contact us at [weboot-users@cern.ch](mailto:weboot-users@cern.ch),
+[subscribe here](https://e-groups.cern.ch/e-groups/EgroupsSubscription.do?egroupName=weboot-users).
 
 Please see `CONTRIBUTING`.
